@@ -12,6 +12,19 @@
     color:white ;
     padding:0 20px ;
 }   
+.nav-logo{
+    height: 50px;
+    width:100px ;
+}
 .logo{
-    background-image: url(OIP.webp);
+    background-image: url("Amazonlogo.png");
+    background-size:cover ;
+    background-color: aliceblue;
+    height: 50px ;
+    width:100px ;
+}
+.border:hover{
+    border: 2px solid white ;
+    padding: 5px ;
+    border-radius: 5px ;
 }
